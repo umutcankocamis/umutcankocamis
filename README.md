@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I graduated from Computer Engineering in June 2023. Since then, I have been improving myself as a frontend developer.
+I graduated from Computer Engineering in June 2023. Since then, I have been improving myself as a Frontend Developer.
 
-* 🌍  I'm based in Manisa
+* 🌍  I'm based in Manisa/Turkey
 * ✉️  You can contact me at [umutceaan@gmail.com](mailto:umutceaan@gmail.com)
 * 🚀  I'm currently working on [Frontend Mentor Challenges](http://www.frontendmentor.io/profile/ukhazards)
 * 🧠  I'm learning Javascript, React.js, Typescript, Tailwind, Material UI
