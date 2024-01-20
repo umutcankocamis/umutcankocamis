@@ -28,8 +28,8 @@ I graduated from Computer Engineering in June 2023. Since then, I have been impr
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/umutcankocamis"><img src="https://github-readme-stats.vercel.app/api?username=umutcankocamis&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="umutcankocamis's GitHub stats" /></a>
+<a href="http://www.github.com/umutcankocamis"><img src="https://github-readme-stats.vercel.app/api?username=umutcankocamis&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=3382ed&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="umutcankocamis's GitHub stats" /></a>
 
-<a href="http://www.github.com/umutcankocamis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=umutcankocamis&stroke=3382ed&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+<a href="http://www.github.com/umutcankocamis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=umutcankocamis&stroke=3382ed&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="https://github.com/umutcankocamis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutcankocamis&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/umutcankocamis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutcankocamis&langs_count=10&title_color=ef4444&text_color=3382ed&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
