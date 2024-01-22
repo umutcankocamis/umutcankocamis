@@ -9,7 +9,7 @@ I graduated from Computer Engineering in June 2023. Since then, I have been impr
 * 🌍  I'm based in Manisa/Turkey
 * ✉️  You can contact me at [umutceaan@gmail.com](mailto:umutceaan@gmail.com)
 * 🚀  I'm currently working on [Frontend Mentor Challenges](http://www.frontendmentor.io/profile/ukhazards)
-* 🧠  I'm learning Typescript, Tailwind, Material UI
+* 🧠  I'm learning Typescript, Tailwind
 * 🤝  I'm open to collaborating on React projects
 
 ### Skills
