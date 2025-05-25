@@ -6,8 +6,8 @@ Frontend Developer
 
 I graduated from Computer Engineering in June 2023. Since then, I have been improving myself as a Frontend Developer.
 
-* 🌍  I'm based in Manisa/Turkey
-* ✉️  You can contact me at [umutcankocamis.business@gmail.com](mailto:umutcankocamis.business@gmail.com)
+* 🌍  I'm based in Bayreuth/Deutschland
+* ✉️  You can contact me at [umutceaan@gmail.com](mailto:umutceaan@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on React projects
 
